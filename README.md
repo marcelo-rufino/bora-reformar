@@ -4,4 +4,4 @@
 <h2>Público alvo</h2>
 <p>Profissionais da construção civil e hobistas que gostam de colocar a mão na massa.</p>
 
-<h3>Aplicação em desenvolvimento.</h3>
+<h3>Obs: Aplicação em desenvolvimento.</h3>
